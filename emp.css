@@ -1,0 +1,48 @@
+  body{
+	background-image: url("jet.jpg");    
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+	background-size: 100%;
+    background-attachment: fixed;
+	color: #163317;
+    font-family: 'Yantramanav', sans-serif;;
+    font-size: 100%;
+
+        }
+            h2 {
+    color: #00332E;
+    font-family: verdana;
+    font-size: 100%;
+}
+    .right {
+    text-align: right;
+    float: right;
+	color: rgb(4, 147, 114);
+}
+
+a {
+    color: rgb(103, 65, 114);
+}
+  h1 {
+    color: #008C7E;
+    font-family: verdana;
+    font-size: 100%;
+}
+.button {
+  padding: 10px 10px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: rgb(1,50,67);
+  border: none;
+}
+
+.button:hover {background-color: #777;}
+
+.button:active {
+  background-color: #3e8e41;
+}
